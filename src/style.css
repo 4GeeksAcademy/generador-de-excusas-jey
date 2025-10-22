@@ -1,11 +1,22 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: #d9ceb2;
     
+}
+.texto{
+  position: absolute;  
+  top: 50%;             
+  left: 50%;            
+  transform: translate(-50%, -50%); 
+  font-size: 30px;
+  background-color: white;
+  margin: 0;
+  border-radius: 4px;
+  
 }
 
 #excuse{
-    justify-content: center;
-    text-align: center;
+    width:100%;
+    padding: 8px;
 }
