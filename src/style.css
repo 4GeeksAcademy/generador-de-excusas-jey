@@ -2,4 +2,10 @@
 
 body{
     background: white;
+    
+}
+
+#excuse{
+    justify-content: center;
+    text-align: center;
 }
